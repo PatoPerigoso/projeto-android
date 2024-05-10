@@ -59,11 +59,13 @@ header > p {
     background: linear-gradient(to bottom, #145832);
     font-size: 1.2em;
     font-family: var(--fonte-padrao);
-    color: rgb(150, 150, 150);
+    color: rgb(226, 226, 226);
     max-width: 500px;
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
+    padding-bottom: 50px;
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.397);
 }
 
 nav {
